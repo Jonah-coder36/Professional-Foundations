@@ -1,4 +1,4 @@
-<h1>Professional Foundations Project</h1>
+<h1>Weaste Tracker App</h1>
 
  ### [YouTube Demonstration](https://youtu.be/zQ6ProfawA0?si=ZpDH0s_xlcUoT0oa)
 
